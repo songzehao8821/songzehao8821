@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @song zehao
-- 👀 I’m interested in Python nad java
+- 👀 I’m interested in Python and java
 - 🌱 I’m currently learning machine-learning
 - 💞️ I’m looking to collaborate on deep-learning skill
 - 📫 How to reach me ...
